@@ -1,1 +1,1 @@
-rule org.apache.commons.codec.** org.apache.mybase64.@1
+rule org.apache.commons.codec.** my.base64.@1
