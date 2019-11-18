@@ -1,3 +1,0 @@
-使用方法
-
-java -jar jarjar.jar process rule.text source/c1.jar result/my.jar

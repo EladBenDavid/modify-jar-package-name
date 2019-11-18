@@ -22,6 +22,8 @@ java.lang.NoSuchMethodError: No static method encodeBase64String([B)Ljava/lang/S
 
 下载地址为: [http://commons.apache.org/proper/commons-codec/download_codec.cgi](http://commons.apache.org/proper/commons-codec/download_codec.cgi?)
 
+PS:以上工具可在本库下载
+
 修改名称为`c1.jar`，运行以下命令即可
 
 ```bash
@@ -39,4 +41,18 @@ rule org.apache.commons.codec.** org.apache.mybase64.@1
 具体的规则定义可以参考[这篇](https://www.cnblogs.com/yejiurui/p/4283505.html)文章
 
 最后在`result`文件夹可看到修改包名后的jar包
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
